@@ -33,7 +33,7 @@ async def connect_to_wss(socks5_proxy, user_id):
             ssl_context.check_hostname = False
             ssl_context.verify_mode = ssl.CERT_NONE
 
-            uri = "wss://proxy2.wynd.network:4444"
+            uri = "wss://proxy2.wynd.network:4650"
             
             # WebSocket connection via proxy using aiohttp
             connector = aiohttp.TCPConnector(ssl_context=ssl_context)
