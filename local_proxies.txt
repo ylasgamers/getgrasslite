@@ -1,6 +1,1 @@
-http://ip:port
-socks4://ip:port
-socks5://ip:port
-http://user:pass@ip:port
-socks4://user:pass@ip:port
-socks5://user:pass@ip:port
+socks5://77277237-zone-custom-sessid-5vW0XdKm-sessTime-15:ltD4hiFc@aus.360s5.com:3600
